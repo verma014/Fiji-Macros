@@ -1,0 +1,10 @@
+//Select Original H5 file and then Segmented H5 file. Combine the different files as different channels.
+
+//Split the files.
+
+//Merge the chanels withe first 2 layers as the real image, next two as segmented. Maybe the last two as probabilities.
+
+//Save the file as xx format.
+
+
+//Use this file for the imaris file converter
